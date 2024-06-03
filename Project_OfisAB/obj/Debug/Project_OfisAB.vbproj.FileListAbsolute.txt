@@ -1,0 +1,27 @@
+C:\Users\Kusuma Haafiidzh\AppData\Local\Temporary Projects\Project_OfisAB\bin\Debug\Project_OfisAB.exe.config
+C:\Users\Kusuma Haafiidzh\AppData\Local\Temporary Projects\Project_OfisAB\bin\Debug\Project_OfisAB.exe
+C:\Users\Kusuma Haafiidzh\AppData\Local\Temporary Projects\Project_OfisAB\bin\Debug\Project_OfisAB.pdb
+C:\Users\Kusuma Haafiidzh\AppData\Local\Temporary Projects\Project_OfisAB\bin\Debug\Project_OfisAB.xml
+C:\Users\Kusuma Haafiidzh\AppData\Local\Temporary Projects\Project_OfisAB\obj\Debug\Project_OfisAB.login.resources
+C:\Users\Kusuma Haafiidzh\AppData\Local\Temporary Projects\Project_OfisAB\obj\Debug\Project_OfisAB.Resources.resources
+C:\Users\Kusuma Haafiidzh\AppData\Local\Temporary Projects\Project_OfisAB\obj\Debug\Project_OfisAB.vbproj.GenerateResource.Cache
+C:\Users\Kusuma Haafiidzh\AppData\Local\Temporary Projects\Project_OfisAB\obj\Debug\Project_OfisAB.exe
+C:\Users\Kusuma Haafiidzh\AppData\Local\Temporary Projects\Project_OfisAB\obj\Debug\Project_OfisAB.xml
+C:\Users\Kusuma Haafiidzh\AppData\Local\Temporary Projects\Project_OfisAB\obj\Debug\Project_OfisAB.pdb
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\bin\Debug\Project_OfisAB.exe.config
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\obj\Debug\Project_OfisAB.exe
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\obj\Debug\Project_OfisAB.xml
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\obj\Debug\Project_OfisAB.pdb
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\bin\Debug\Project_OfisAB.exe
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\bin\Debug\Project_OfisAB.pdb
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\bin\Debug\Project_OfisAB.xml
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\obj\Debug\Project_OfisAB.login.resources
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\obj\Debug\Project_OfisAB.Resources.resources
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\obj\Debug\Project_OfisAB.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\obj\Debug\Project_OfisAB.Home.resources
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\obj\Debug\Project_OfisAB.Pendaftaran.resources
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\obj\Debug\Project_OfisAB.DataPasien.resources
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\obj\Debug\Project_OfisAB.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\obj\Debug\Project_OfisAB.Edit.resources
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\obj\Debug\Project_OfisAB.Laporan.resources
+D:\Kuliah\Semester5\Joki\Project_OfisAB\Project_OfisAB\obj\Debug\Project_OfisAB.Kepala.resources
